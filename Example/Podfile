@@ -1,0 +1,15 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'SkeletonView_Example' do
+  pod 'SkeletonView', :path => '../'
+  
+  pod 'Masonry'
+
+  target 'SkeletonView_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end

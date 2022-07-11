@@ -1,0 +1,25 @@
+{
+  "name": "SkeletonView",
+  "version": "1.29.3",
+  "summary": "A short description of SkeletonView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "http://git.qpaas.com/PaasPods/ExternalModule/SkeletonView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lionsom": "lionsom_lin@qq.com"
+  },
+  "source": {
+    "git": "http://git.qpaas.com/PaasPods/ExternalModule/SkeletonView.git",
+    "tag": "1.29.3"
+  },
+  "platforms": {
+    "ios": "9.0",
+    "tvos": "9.0"
+  },
+  "swift_versions": "5.0",
+  "source_files": "SkeletonView/Sources/**/*.{swift,h}",
+  "swift_version": "5.0"
+}
