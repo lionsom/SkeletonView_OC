@@ -1,17 +1,14 @@
 # Base on SkeletonView
 
-SkeletonView supports OC. 
-
 https://github.com/Juanpe/SkeletonView
 
-Mixture Variants:
-
-https://github.com/lionsom/SkeletonView/blob/master/Document/DemoVideo.mp4
+SkeletonView supports OC. 
 
 
+# Demo Video
+[local resource path](https://github.com/lionsom/SkeletonView/blob/master/Document/DemoVideo.mp4)
 
 https://user-images.githubusercontent.com/15815809/178189868-f81d493f-07f0-424b-aae0-9661b9d41c1d.mp4
-
 
 
 # 兼容OC改动记录
