@@ -28,7 +28,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RLj-BU-afK">
-                                <rect key="frame" x="50" y="175" width="275" height="31"/>
+                                <rect key="frame" x="50" y="175" width="103" height="31"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="UITableView"/>
                                 <connections>
@@ -36,7 +36,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0Df-fe-1aG">
-                                <rect key="frame" x="50" y="256" width="275" height="31"/>
+                                <rect key="frame" x="50" y="256" width="133.5" height="31"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" title="UICollectionView"/>
                                 <connections>
@@ -46,13 +46,13 @@
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
-                            <constraint firstAttribute="trailing" secondItem="RLj-BU-afK" secondAttribute="trailing" constant="50" id="3Wf-Mz-Zac"/>
+                            <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="RLj-BU-afK" secondAttribute="trailing" id="3Wf-Mz-Zac"/>
                             <constraint firstItem="RLj-BU-afK" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" constant="50" id="IAS-sI-1oG"/>
                             <constraint firstItem="XCU-m8-18J" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" id="QWR-AV-xEU"/>
                             <constraint firstItem="XCU-m8-18J" firstAttribute="top" secondItem="jyV-Pf-zRb" secondAttribute="bottom" constant="50" id="bgi-jX-I8k"/>
                             <constraint firstItem="RLj-BU-afK" firstAttribute="top" secondItem="XCU-m8-18J" secondAttribute="bottom" constant="50" id="eXd-S4-Nh4"/>
                             <constraint firstItem="0Df-fe-1aG" firstAttribute="top" secondItem="RLj-BU-afK" secondAttribute="bottom" constant="50" id="jze-UN-DoX"/>
-                            <constraint firstAttribute="trailing" secondItem="0Df-fe-1aG" secondAttribute="trailing" constant="50" id="mFp-aA-UV2"/>
+                            <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="0Df-fe-1aG" secondAttribute="trailing" id="mFp-aA-UV2"/>
                             <constraint firstAttribute="trailing" secondItem="XCU-m8-18J" secondAttribute="trailing" id="uoJ-T6-uhI"/>
                             <constraint firstItem="0Df-fe-1aG" firstAttribute="leading" secondItem="kh9-bI-dsS" secondAttribute="leading" constant="50" id="xEg-Pp-9E8"/>
                         </constraints>
