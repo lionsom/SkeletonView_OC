@@ -4,8 +4,9 @@ SkeletonView supports OC.
 
 https://github.com/Juanpe/SkeletonView
 
-![](./Document/DemoVideo.mp4)
+Mixture Variants:
 
+./Document/DemoVideo.mp4
 
 
 
