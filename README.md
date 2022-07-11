@@ -6,8 +6,7 @@ https://github.com/Juanpe/SkeletonView
 
 Mixture Variants:
 
-./Document/DemoVideo.mp4
-
+https://github.com/lionsom/SkeletonView/blob/master/Document/DemoVideo.mp4
 
 
 
